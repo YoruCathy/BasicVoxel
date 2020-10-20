@@ -1,2 +1,2 @@
 # BasicVoxel
-basic voxel processing class
+Basic voxel processing class
